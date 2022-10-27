@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bwyndham
-- 👀 I’m interested in data science, web applications, and learning as much as I can
+- 🧠 I’m interested in data science, web applications, and learning as much as I can
 - 🌱 I’m currently learning python and about interacting with APIs
 - 📫 You can reach me at my website linked in my profile! 
 - ⛷️ My pastimes include skiing, rock climbing, reading, and gaming
