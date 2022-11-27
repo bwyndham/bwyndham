@@ -8,4 +8,8 @@ Hi, I’m @bwyndham
 Recent Reading List:
 - Metamodernism by Jason Ananda Josephson Storm
 - Into The Rip by Damien Cave
-- Twilight of Democracy by Anne Applebaum
+
+To Do Reading List:
+- The DevOps Handbook
+- Thinking Fast and Slow
+- The End of the End of History
