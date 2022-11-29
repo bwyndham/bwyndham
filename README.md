@@ -12,4 +12,3 @@ Recent Reading List:
 To Do Reading List:
 - The DevOps Handbook
 - Thinking Fast and Slow
-- The End of the End of History
