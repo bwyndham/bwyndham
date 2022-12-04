@@ -5,6 +5,9 @@ Hi, I’m @bwyndham
 - My pastimes include skiing, rock climbing, reading, and gaming
 - My goal in the next two years is to begin my Master's degree in Information Technology
 
+Active Projects:
+- Analytics App in Python
+
 Recent Reading List:
 - Metamodernism by Jason Ananda Josephson Storm
 - Into The Rip by Damien Cave
