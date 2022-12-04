@@ -10,5 +10,6 @@ Recent Reading List:
 - Into The Rip by Damien Cave
 
 To Do Reading List:
-- The DevOps Handbook
-- Thinking Fast and Slow
+- The DevOps Handbook by Gene Kim, Jez Humble, et al.
+- Practical Statistics for Data Scientist by Peter Bruce
+- Thinking Fast and Slow by Daniel Kahneman, Patrick Egan, et al.
