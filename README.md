@@ -6,13 +6,15 @@ Hi, I’m @bwyndham
 - My goal in the next two years is to begin my Master's degree in Information Technology
 
 Active Projects:
-- Analytics App in Python
+- Currently working on a few ad hoc projects to hone my skills and build out my data analysis portfolio.
 
 Recent Reading List:
 - Metamodernism by Jason Ananda Josephson Storm
 - Into The Rip by Damien Cave
 
+In Progress Reading List:
+- Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce & Peter Gedeck
+
 To Do Reading List:
 - The DevOps Handbook by Gene Kim, Jez Humble, et al.
-- Practical Statistics for Data Scientist by Peter Bruce
 - Thinking Fast and Slow by Daniel Kahneman, Patrick Egan, et al.
