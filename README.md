@@ -3,7 +3,6 @@ Hi, I’m @bwyndham
 - I’m currently learning data analytics and data science in python
 - You can reach me at my website linked in my profile! 
 - My pastimes include skiing, rock climbing, reading, and gaming
-- My goal this year is to enroll in a Master's program in Information Technology
 
 Active Projects:
 - Currently working on a few ad hoc projects to hone my skills and build out my data analysis and programming portfolio.
