@@ -10,9 +10,10 @@ Active Projects:
 Recent Reading List:
 - Metamodernism by Jason Ananda Josephson Storm
 - Into The Rip by Damien Cave
+- Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce & Peter Gedeck
 
 In Progress Reading List:
-- Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce & Peter Gedeck
+- Inventory Optimization: Models and Simulations by Nicolas Vandeput
 
 To Do Reading List:
 - The DevOps Handbook by Gene Kim, Jez Humble, et al.
