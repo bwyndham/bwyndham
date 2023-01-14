@@ -1,6 +1,6 @@
 Hi, I’m @bwyndham
 - I’m interested in data science, supply chain, and distributed systems
-- I’m currently learning data analytics and data science in python
+- I’m currently expanding my data analytics and data science skills in python
 - You can reach me at my website linked in my profile! 
 - My pastimes include skiing, rock climbing, reading, and gaming
 
