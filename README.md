@@ -1,5 +1,5 @@
 Hi, I’m @bwyndham
-- I’m interested in data science, supply chain, and distributed systems
+- I’m interested in data science, supply chain, and system design
 - I’m currently expanding my data analytics and data science skills in python
 - You can reach me at my website linked in my profile! 
 - My pastimes include skiing, rock climbing, reading, and gaming
@@ -13,6 +13,7 @@ Recent Reading List:
 - Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce & Peter Gedeck
 
 In Progress Reading List:
+- Designing Data Intensive Applications by Martin Kleppmann
 - Inventory Optimization: Models and Simulations by Nicolas Vandeput
 
 To Do Reading List:
