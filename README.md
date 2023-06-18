@@ -9,7 +9,7 @@ Active Projects:
 
 Recent Reading List:
 - Metamodernism by Jason Ananda Josephson Storm
-- Into The Rip by Damien Cave
+- The Product Book by Josh Anon and Carlos Gonzalez de Villaumbrosia
 - Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce & Peter Gedeck
 
 In Progress Reading List:
