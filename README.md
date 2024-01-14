@@ -14,7 +14,3 @@ Recent Reading List:
 
 In Progress Reading List:
 - Software Architecture in Practice by Len Bass, Paul Clements, Rick Kazman
-
-To Do Reading List:
-- The DevOps Handbook by Gene Kim, Jez Humble, et al.
-- Thinking Fast and Slow by Daniel Kahneman, Patrick Egan, et al.
