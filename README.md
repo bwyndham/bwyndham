@@ -8,13 +8,12 @@ Active Projects:
 - Currently working on a few ad hoc projects to hone my skills and build out my data analysis and programming portfolio.
 
 Recent Reading List:
-- Metamodernism by Jason Ananda Josephson Storm
 - The Product Book by Josh Anon and Carlos Gonzalez de Villaumbrosia
 - Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce & Peter Gedeck
+- Designing Data Intensive Applications by Martin Kleppmann
 
 In Progress Reading List:
-- Designing Data Intensive Applications by Martin Kleppmann
-- Inventory Optimization: Models and Simulations by Nicolas Vandeput
+- Software Architecture in Practice by Len Bass, Paul Clements, Rick Kazman
 
 To Do Reading List:
 - The DevOps Handbook by Gene Kim, Jez Humble, et al.
