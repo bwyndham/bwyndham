@@ -1,10 +1,11 @@
-Hi, I’m @bwyndham
-- I’m interested in data science, supply chain, and system design
-- I’m currently expanding my data science and python skills
-- My pastimes include skiing, rock climbing, reading, and gaming
+Hi, I’m @bwyndham. I am a product manager with a focus on data science, machine learning, forecasting, and system design. 
 
 Active Projects:
-- Currently working on a demand and supply planning app using the Nixtla and Streamlit libraries in Python!
+- [Demand and Supply Planning App](https://demand-and-supply-planning-app.streamlit.app/)
+
+Currently Reading:
+- Inventory Optimization by Nicolas Vandeput
+- Process Mining by Wil van der Aalst
 
 Recent Reading List:
 - The Product Book by Josh Anon and Carlos Gonzalez de Villaumbrosia
@@ -12,5 +13,4 @@ Recent Reading List:
 - Designing Data Intensive Applications by Martin Kleppmann
 - Software Architecture in Practice by Len Bass, Paul Clements, Rick Kazman
 
-In Progress Reading List:
-- Process Mining by Wil van der Aalst
+
